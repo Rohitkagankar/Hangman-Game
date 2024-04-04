@@ -157,3 +157,8 @@ body{
         display: none;
     }
 }
+footer{
+    position: absolute;
+    bottom: 10px;
+    color: #f802bf;
+}
